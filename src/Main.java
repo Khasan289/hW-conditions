@@ -83,7 +83,7 @@ public class Main {
         } else if (two > one && two > three){
             System.out.println(two);
         }else {
-            System.out.println(three);
+            System.out.println(three); // :-)
         }
 
 
